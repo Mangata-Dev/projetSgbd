@@ -14,10 +14,11 @@ Interface Utilisateur
 - Affichage des 10 derniers produits créer.
 
 Dans les versions avenirs...
-Amélioration du front
-Ajout des uploads d'images de produits
-Améliorations de la BDD pour afficher les quantités (kg) et ajout de panier
-Ajout d'un nouveau type d'utilisateur (vendeurs)
+- Amélioration du front
+- Ajout de CRUD utilisateur pour l'interface admin
+- Ajout des uploads d'images de produits
+- Améliorations de la BDD pour afficher les quantités (kg) et ajout de panier
+- Ajout d'un nouveau type d'utilisateur (vendeurs)
 
 
 
