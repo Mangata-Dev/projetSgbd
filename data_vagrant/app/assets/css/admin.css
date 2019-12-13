@@ -1,0 +1,18 @@
+#productsTable{
+
+}
+.table-container{
+  width: 1250px;
+  margin : auto;
+  border: 1px solid black ;
+}
+/* .deleteBtn{
+  background-color: red;
+}
+.updateBtn{
+  background-color: green;
+}
+.updateBtn, .deleteBtn {
+  cursor: pointer;
+  border: black;
+} */
